@@ -1,4 +1,4 @@
-include "codon.h"
+#include "codon.h"
 Codon::Codon()
 {
     stopstart = true;
